@@ -49,4 +49,4 @@ print(lst_palabras)
 2.   ¿Python está mal? 🐍
 3.   ¿Te animas a ordenar la lista alfabéticamente manteniendo las minúsculas y mayúsculas?🔡🔠 Puedes crear tu propia función que lo resuelva
 
-
+[Link al notebook 🐍](https://github.com/edvaicode/mini-challenges/blob/main/01_lista_ordenada/lista_ordenada.ipynb)
